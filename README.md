@@ -1,2 +1,2 @@
 # laha-app-2024
-ISD Build App
+ISD Build app for home automation.
